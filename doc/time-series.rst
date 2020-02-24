@@ -57,7 +57,7 @@ attribute like ``'days since 2000-01-01'``).
 .. _cftime: https://unidata.github.io/cftime
 
 
-You can manual decode arrays in this form by passing a dataset to
+You can manually decode arrays in this form by passing a dataset to
 :py:func:`~xarray.decode_cf`:
 
 .. ipython:: python
